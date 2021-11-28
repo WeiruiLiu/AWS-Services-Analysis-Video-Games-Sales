@@ -31,11 +31,11 @@ Our repoistory contain:
 * **Demo**
   * *Demo Instruction.docx*
   * *Demo Speech Notes.docx*
-  * *Demo.mp4* -- step by step of project implementation
 * **CC Group 8 Final Project Presentation.pptx**
   * Presentation of final project
 
 ## How It Works
- Look at the powerpoint *CC Group 8 Final Project Presentation.pptx*
+ 1. Look at the powerpoint *CC Group 8 Final Project Presentation.pptx*
+ 2. Demo video click [Here](https://youtu.be/x8gHLyS3zSw)
 
  **If any problem in code, going to Zheyue Wang GitHub click [Here](https://github.com/zheyue/DATS_6450_Cloud_Computing_AWS_Final_Project) and Yanjun Liu GitHub click [Here](https://github.com/Naomi3024/DATS_6450_Cloud_Computing_AWS_Final_Project).**
