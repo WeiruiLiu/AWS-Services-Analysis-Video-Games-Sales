@@ -1,5 +1,5 @@
 # Analysis Video Games Sales - AWS Service and Python
-Group 8: Yanjun Liu, Rayna Liu, Zheyue Wang
+Group Project: Yanjun Liu, Rayna Liu, Zheyue Wang
 
 ## Introduction
 Video games are a billion-dollar business and have been for many years since the first games emerged in the 1970s. During the COVID-19 pandemic, gaming has become entertainment and time filling for many people. Especially, the Nintendo games, Playstation games, and PC games. As a result,  there is an increased interest in gaming and video game sales have increased due to COVID-19-related lockdown measures. In this project, we are going to analyze the sales trends from more than 16,500 popular video games.
