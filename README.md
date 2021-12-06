@@ -37,5 +37,6 @@ Our repoistory contain:
 ## How It Works
  1. Look at the powerpoint **CC Group 8 Final Project Presentation.pptx**
  2. If you have any issue to play Demo video, click [Here](https://youtu.be/x8gHLyS3zSw)
+ 3. Check python code click [Github Pages](https://weiruiliu.github.io/Analysis-Video-Games-Sales/VG_Sales_Python_Visualization.html)
 
  **If any problem in code, going to Zheyue Wang GitHub click [Here](https://github.com/zheyue/DATS_6450_Cloud_Computing_AWS_Final_Project) and Yanjun Liu GitHub click [Here](https://github.com/Naomi3024/DATS_6450_Cloud_Computing_AWS_Final_Project).**
